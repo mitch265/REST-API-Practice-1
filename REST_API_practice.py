@@ -34,6 +34,6 @@ def AutomaticReply(ticketID, user, emailText, password):
     print(response.text)
 
 # add your personal ticket ID, email, automatic reply, and b64 password
-AutomaticReply("[ticketID]", "[user", "[emailText]", "[password]")
+AutomaticReply("[ticketID]", "[user]", "[emailText]", "[password]")
 
     
